@@ -67,5 +67,30 @@ Options:
 
 ---
 
+## 🎯 Learning Outcomes
+
+* Understanding Python lists
+* Writing reusable functions
+* Handling user input safely
+* Using loops and conditionals
+
+---
+
+## 📈 Future Improvements
+
+* Save tasks to a file
+* Add task completion status
+* Add due dates and priorities
+* Build a GUI or Web version
+
+---
+
+## 👨‍💻 Author
+
+**Jitendra KanhaiyaSingh Gaherwar**
+Python | Data Analyst | Machine Learning Enthusiast
+
+---
+
 
 ⭐ If you like this project, don’t forget to star the repository!
